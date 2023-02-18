@@ -1,0 +1,23 @@
+{
+  "name": "vgr-node",
+  "version": "1.0.0",
+  "description": "vacation gmail respond application - interview process Listed. INC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naman1102/Vacation-Gmail-Responder.git"
+  },
+  "author": "Naman Mehta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naman1102/Vacation-Gmail-Responder/issues"
+  },
+  "homepage": "https://github.com/naman1102/Vacation-Gmail-Responder#readme",
+  "dependencies": {
+    "google-auth-library": "^8.7.0",
+    "googleapis": "^111.0.0"
+  }
+}
